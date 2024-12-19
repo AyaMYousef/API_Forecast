@@ -1,5 +1,5 @@
 // Constants
-const key = secrets.key;
+const key = secrets.API_KEY;
 const baseUrl = `https://api.weatherapi.com/v1/`;
 
 // Select container-box
